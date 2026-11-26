@@ -13,7 +13,7 @@ Aplikasi berbasis konsol (terminal) menggunakan **TypeScript** untuk mengelola d
 | :- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Naila Rifa Kamila | 263140707111080 | [@snackletickle](https://github.com/snackletickle) | Create feature, Delete. | - |
 | 2 | Muhammad Atha Ilyasa | 263140701111039 | [@muhammadatha-web](https://github.com/muhammadatha-web) | Set up the GitHub repository, Main Menu and Read feature. | - |
-| 3 | Nazmi Nabila Hermawan | 263140701111041 | [@nazminabilahermawan-ctrl](https://github.com/nazminabilahermawan-ctrl) | Update Feature, Search features. | - |
+| 3 | Nazmi Nabila Hermawan | 263140701111041 | [@nazminabilahermawan-ctrl](https://github.com/nazminabilahermawan-ctrl) | Update Feature, Search features. | https://github.com/muhammadatha-web/laundrybilling-cli/pull/1 |
 
 ## Cara Menjalankan Program
 1. Instal dependensi proyek:
