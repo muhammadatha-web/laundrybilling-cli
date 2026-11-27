@@ -9,7 +9,7 @@ Aplikasi berbasis konsol (terminal) menggunakan **TypeScript** untuk mengelola d
 - **Repository (Public)**: https://github.com/muhammadatha-web/laundrybilling-cli.git
 
 ## Daftar Anggota & Pembagian Tugas
-| No | Nama Lengkap | NIM | Akun GitHub | Pembagian Tugas / Fitur | Main Pull Request |
+| No | Full Name | NIM | GitHub Account | Pembagian Tugas / Fitur | Main Pull Request |
 | :- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Naila Rifa Kamila | 263140707111080 | [@snackletickle](https://github.com/snackletickle) | Create feature, Delete. | https://github.com/muhammadatha-web/laundrybilling-cli/pull/2 |
 | 2 | Muhammad Atha Ilyasa | 263140701111039 | [@muhammadatha-web](https://github.com/muhammadatha-web) | Set up the GitHub repository, Main Menu and Read feature. | https://github.com/muhammadatha-web/laundrybilling-cli/pull/3 |
