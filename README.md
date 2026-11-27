@@ -5,11 +5,11 @@ Aplikasi berbasis konsol (terminal) menggunakan **TypeScript** untuk mengelola d
 ## Informasi Kelompok
 - **Mata Kuliah**: Fundamentals of Programming (UAS)
 - **Dosen Pengampu**: Salnan Ratih Asriningtias, ST., MT.
-- **Kelas / Kelompok**: T1-A / Kelompok 9
+- **Class / Group**: T1-A / Group 9
 - **Repository (Public)**: https://github.com/muhammadatha-web/laundrybilling-cli.git
 
 ## Daftar Anggota & Pembagian Tugas
-| No | Full Name | NIM | GitHub Account | Pembagian Tugas / Fitur | Main Pull Request |
+| No | Full Name | NIM | GitHub Account | Features / Code Sections | Main Pull Request |
 | :- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Naila Rifa Kamila | 263140707111080 | [@snackletickle](https://github.com/snackletickle) | Create feature, Delete. | https://github.com/muhammadatha-web/laundrybilling-cli/pull/2 |
 | 2 | Muhammad Atha Ilyasa | 263140701111039 | [@muhammadatha-web](https://github.com/muhammadatha-web) | Set up the GitHub repository, Main Menu and Read feature. | https://github.com/muhammadatha-web/laundrybilling-cli/pull/3 |
